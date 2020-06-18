@@ -1,0 +1,1165 @@
+Left Riverbank: 	chickens: 99, 	wolves: 96, 	boat: 1
+Right Riverbank: 	chickens: 0, 	wolves: 0, 	boat: 0
+
+Left Riverbank: 	chickens: 98, 	wolves: 95, 	boat: 0
+Right Riverbank: 	chickens: 1, 	wolves: 1, 	boat: 1
+
+Left Riverbank: 	chickens: 99, 	wolves: 95, 	boat: 1
+Right Riverbank: 	chickens: 0, 	wolves: 1, 	boat: 0
+
+Left Riverbank: 	chickens: 97, 	wolves: 95, 	boat: 0
+Right Riverbank: 	chickens: 2, 	wolves: 1, 	boat: 1
+
+Left Riverbank: 	chickens: 98, 	wolves: 95, 	boat: 1
+Right Riverbank: 	chickens: 1, 	wolves: 1, 	boat: 0
+
+Left Riverbank: 	chickens: 96, 	wolves: 95, 	boat: 0
+Right Riverbank: 	chickens: 3, 	wolves: 1, 	boat: 1
+
+Left Riverbank: 	chickens: 97, 	wolves: 95, 	boat: 1
+Right Riverbank: 	chickens: 2, 	wolves: 1, 	boat: 0
+
+Left Riverbank: 	chickens: 96, 	wolves: 94, 	boat: 0
+Right Riverbank: 	chickens: 3, 	wolves: 2, 	boat: 1
+
+Left Riverbank: 	chickens: 97, 	wolves: 94, 	boat: 1
+Right Riverbank: 	chickens: 2, 	wolves: 2, 	boat: 0
+
+Left Riverbank: 	chickens: 95, 	wolves: 94, 	boat: 0
+Right Riverbank: 	chickens: 4, 	wolves: 2, 	boat: 1
+
+Left Riverbank: 	chickens: 96, 	wolves: 94, 	boat: 1
+Right Riverbank: 	chickens: 3, 	wolves: 2, 	boat: 0
+
+Left Riverbank: 	chickens: 95, 	wolves: 93, 	boat: 0
+Right Riverbank: 	chickens: 4, 	wolves: 3, 	boat: 1
+
+Left Riverbank: 	chickens: 96, 	wolves: 93, 	boat: 1
+Right Riverbank: 	chickens: 3, 	wolves: 3, 	boat: 0
+
+Left Riverbank: 	chickens: 94, 	wolves: 93, 	boat: 0
+Right Riverbank: 	chickens: 5, 	wolves: 3, 	boat: 1
+
+Left Riverbank: 	chickens: 95, 	wolves: 93, 	boat: 1
+Right Riverbank: 	chickens: 4, 	wolves: 3, 	boat: 0
+
+Left Riverbank: 	chickens: 94, 	wolves: 92, 	boat: 0
+Right Riverbank: 	chickens: 5, 	wolves: 4, 	boat: 1
+
+Left Riverbank: 	chickens: 95, 	wolves: 92, 	boat: 1
+Right Riverbank: 	chickens: 4, 	wolves: 4, 	boat: 0
+
+Left Riverbank: 	chickens: 93, 	wolves: 92, 	boat: 0
+Right Riverbank: 	chickens: 6, 	wolves: 4, 	boat: 1
+
+Left Riverbank: 	chickens: 94, 	wolves: 92, 	boat: 1
+Right Riverbank: 	chickens: 5, 	wolves: 4, 	boat: 0
+
+Left Riverbank: 	chickens: 93, 	wolves: 91, 	boat: 0
+Right Riverbank: 	chickens: 6, 	wolves: 5, 	boat: 1
+
+Left Riverbank: 	chickens: 94, 	wolves: 91, 	boat: 1
+Right Riverbank: 	chickens: 5, 	wolves: 5, 	boat: 0
+
+Left Riverbank: 	chickens: 92, 	wolves: 91, 	boat: 0
+Right Riverbank: 	chickens: 7, 	wolves: 5, 	boat: 1
+
+Left Riverbank: 	chickens: 93, 	wolves: 91, 	boat: 1
+Right Riverbank: 	chickens: 6, 	wolves: 5, 	boat: 0
+
+Left Riverbank: 	chickens: 92, 	wolves: 90, 	boat: 0
+Right Riverbank: 	chickens: 7, 	wolves: 6, 	boat: 1
+
+Left Riverbank: 	chickens: 93, 	wolves: 90, 	boat: 1
+Right Riverbank: 	chickens: 6, 	wolves: 6, 	boat: 0
+
+Left Riverbank: 	chickens: 91, 	wolves: 90, 	boat: 0
+Right Riverbank: 	chickens: 8, 	wolves: 6, 	boat: 1
+
+Left Riverbank: 	chickens: 92, 	wolves: 90, 	boat: 1
+Right Riverbank: 	chickens: 7, 	wolves: 6, 	boat: 0
+
+Left Riverbank: 	chickens: 91, 	wolves: 89, 	boat: 0
+Right Riverbank: 	chickens: 8, 	wolves: 7, 	boat: 1
+
+Left Riverbank: 	chickens: 92, 	wolves: 89, 	boat: 1
+Right Riverbank: 	chickens: 7, 	wolves: 7, 	boat: 0
+
+Left Riverbank: 	chickens: 90, 	wolves: 89, 	boat: 0
+Right Riverbank: 	chickens: 9, 	wolves: 7, 	boat: 1
+
+Left Riverbank: 	chickens: 91, 	wolves: 89, 	boat: 1
+Right Riverbank: 	chickens: 8, 	wolves: 7, 	boat: 0
+
+Left Riverbank: 	chickens: 90, 	wolves: 88, 	boat: 0
+Right Riverbank: 	chickens: 9, 	wolves: 8, 	boat: 1
+
+Left Riverbank: 	chickens: 91, 	wolves: 88, 	boat: 1
+Right Riverbank: 	chickens: 8, 	wolves: 8, 	boat: 0
+
+Left Riverbank: 	chickens: 89, 	wolves: 88, 	boat: 0
+Right Riverbank: 	chickens: 10, 	wolves: 8, 	boat: 1
+
+Left Riverbank: 	chickens: 90, 	wolves: 88, 	boat: 1
+Right Riverbank: 	chickens: 9, 	wolves: 8, 	boat: 0
+
+Left Riverbank: 	chickens: 89, 	wolves: 87, 	boat: 0
+Right Riverbank: 	chickens: 10, 	wolves: 9, 	boat: 1
+
+Left Riverbank: 	chickens: 90, 	wolves: 87, 	boat: 1
+Right Riverbank: 	chickens: 9, 	wolves: 9, 	boat: 0
+
+Left Riverbank: 	chickens: 88, 	wolves: 87, 	boat: 0
+Right Riverbank: 	chickens: 11, 	wolves: 9, 	boat: 1
+
+Left Riverbank: 	chickens: 89, 	wolves: 87, 	boat: 1
+Right Riverbank: 	chickens: 10, 	wolves: 9, 	boat: 0
+
+Left Riverbank: 	chickens: 88, 	wolves: 86, 	boat: 0
+Right Riverbank: 	chickens: 11, 	wolves: 10, 	boat: 1
+
+Left Riverbank: 	chickens: 89, 	wolves: 86, 	boat: 1
+Right Riverbank: 	chickens: 10, 	wolves: 10, 	boat: 0
+
+Left Riverbank: 	chickens: 87, 	wolves: 86, 	boat: 0
+Right Riverbank: 	chickens: 12, 	wolves: 10, 	boat: 1
+
+Left Riverbank: 	chickens: 88, 	wolves: 86, 	boat: 1
+Right Riverbank: 	chickens: 11, 	wolves: 10, 	boat: 0
+
+Left Riverbank: 	chickens: 87, 	wolves: 85, 	boat: 0
+Right Riverbank: 	chickens: 12, 	wolves: 11, 	boat: 1
+
+Left Riverbank: 	chickens: 88, 	wolves: 85, 	boat: 1
+Right Riverbank: 	chickens: 11, 	wolves: 11, 	boat: 0
+
+Left Riverbank: 	chickens: 86, 	wolves: 85, 	boat: 0
+Right Riverbank: 	chickens: 13, 	wolves: 11, 	boat: 1
+
+Left Riverbank: 	chickens: 87, 	wolves: 85, 	boat: 1
+Right Riverbank: 	chickens: 12, 	wolves: 11, 	boat: 0
+
+Left Riverbank: 	chickens: 86, 	wolves: 84, 	boat: 0
+Right Riverbank: 	chickens: 13, 	wolves: 12, 	boat: 1
+
+Left Riverbank: 	chickens: 87, 	wolves: 84, 	boat: 1
+Right Riverbank: 	chickens: 12, 	wolves: 12, 	boat: 0
+
+Left Riverbank: 	chickens: 85, 	wolves: 84, 	boat: 0
+Right Riverbank: 	chickens: 14, 	wolves: 12, 	boat: 1
+
+Left Riverbank: 	chickens: 86, 	wolves: 84, 	boat: 1
+Right Riverbank: 	chickens: 13, 	wolves: 12, 	boat: 0
+
+Left Riverbank: 	chickens: 85, 	wolves: 83, 	boat: 0
+Right Riverbank: 	chickens: 14, 	wolves: 13, 	boat: 1
+
+Left Riverbank: 	chickens: 86, 	wolves: 83, 	boat: 1
+Right Riverbank: 	chickens: 13, 	wolves: 13, 	boat: 0
+
+Left Riverbank: 	chickens: 84, 	wolves: 83, 	boat: 0
+Right Riverbank: 	chickens: 15, 	wolves: 13, 	boat: 1
+
+Left Riverbank: 	chickens: 85, 	wolves: 83, 	boat: 1
+Right Riverbank: 	chickens: 14, 	wolves: 13, 	boat: 0
+
+Left Riverbank: 	chickens: 84, 	wolves: 82, 	boat: 0
+Right Riverbank: 	chickens: 15, 	wolves: 14, 	boat: 1
+
+Left Riverbank: 	chickens: 85, 	wolves: 82, 	boat: 1
+Right Riverbank: 	chickens: 14, 	wolves: 14, 	boat: 0
+
+Left Riverbank: 	chickens: 83, 	wolves: 82, 	boat: 0
+Right Riverbank: 	chickens: 16, 	wolves: 14, 	boat: 1
+
+Left Riverbank: 	chickens: 84, 	wolves: 82, 	boat: 1
+Right Riverbank: 	chickens: 15, 	wolves: 14, 	boat: 0
+
+Left Riverbank: 	chickens: 83, 	wolves: 81, 	boat: 0
+Right Riverbank: 	chickens: 16, 	wolves: 15, 	boat: 1
+
+Left Riverbank: 	chickens: 84, 	wolves: 81, 	boat: 1
+Right Riverbank: 	chickens: 15, 	wolves: 15, 	boat: 0
+
+Left Riverbank: 	chickens: 82, 	wolves: 81, 	boat: 0
+Right Riverbank: 	chickens: 17, 	wolves: 15, 	boat: 1
+
+Left Riverbank: 	chickens: 83, 	wolves: 81, 	boat: 1
+Right Riverbank: 	chickens: 16, 	wolves: 15, 	boat: 0
+
+Left Riverbank: 	chickens: 82, 	wolves: 80, 	boat: 0
+Right Riverbank: 	chickens: 17, 	wolves: 16, 	boat: 1
+
+Left Riverbank: 	chickens: 83, 	wolves: 80, 	boat: 1
+Right Riverbank: 	chickens: 16, 	wolves: 16, 	boat: 0
+
+Left Riverbank: 	chickens: 81, 	wolves: 80, 	boat: 0
+Right Riverbank: 	chickens: 18, 	wolves: 16, 	boat: 1
+
+Left Riverbank: 	chickens: 82, 	wolves: 80, 	boat: 1
+Right Riverbank: 	chickens: 17, 	wolves: 16, 	boat: 0
+
+Left Riverbank: 	chickens: 81, 	wolves: 79, 	boat: 0
+Right Riverbank: 	chickens: 18, 	wolves: 17, 	boat: 1
+
+Left Riverbank: 	chickens: 82, 	wolves: 79, 	boat: 1
+Right Riverbank: 	chickens: 17, 	wolves: 17, 	boat: 0
+
+Left Riverbank: 	chickens: 80, 	wolves: 79, 	boat: 0
+Right Riverbank: 	chickens: 19, 	wolves: 17, 	boat: 1
+
+Left Riverbank: 	chickens: 81, 	wolves: 79, 	boat: 1
+Right Riverbank: 	chickens: 18, 	wolves: 17, 	boat: 0
+
+Left Riverbank: 	chickens: 80, 	wolves: 78, 	boat: 0
+Right Riverbank: 	chickens: 19, 	wolves: 18, 	boat: 1
+
+Left Riverbank: 	chickens: 81, 	wolves: 78, 	boat: 1
+Right Riverbank: 	chickens: 18, 	wolves: 18, 	boat: 0
+
+Left Riverbank: 	chickens: 79, 	wolves: 78, 	boat: 0
+Right Riverbank: 	chickens: 20, 	wolves: 18, 	boat: 1
+
+Left Riverbank: 	chickens: 80, 	wolves: 78, 	boat: 1
+Right Riverbank: 	chickens: 19, 	wolves: 18, 	boat: 0
+
+Left Riverbank: 	chickens: 79, 	wolves: 77, 	boat: 0
+Right Riverbank: 	chickens: 20, 	wolves: 19, 	boat: 1
+
+Left Riverbank: 	chickens: 80, 	wolves: 77, 	boat: 1
+Right Riverbank: 	chickens: 19, 	wolves: 19, 	boat: 0
+
+Left Riverbank: 	chickens: 78, 	wolves: 77, 	boat: 0
+Right Riverbank: 	chickens: 21, 	wolves: 19, 	boat: 1
+
+Left Riverbank: 	chickens: 79, 	wolves: 77, 	boat: 1
+Right Riverbank: 	chickens: 20, 	wolves: 19, 	boat: 0
+
+Left Riverbank: 	chickens: 78, 	wolves: 76, 	boat: 0
+Right Riverbank: 	chickens: 21, 	wolves: 20, 	boat: 1
+
+Left Riverbank: 	chickens: 79, 	wolves: 76, 	boat: 1
+Right Riverbank: 	chickens: 20, 	wolves: 20, 	boat: 0
+
+Left Riverbank: 	chickens: 77, 	wolves: 76, 	boat: 0
+Right Riverbank: 	chickens: 22, 	wolves: 20, 	boat: 1
+
+Left Riverbank: 	chickens: 78, 	wolves: 76, 	boat: 1
+Right Riverbank: 	chickens: 21, 	wolves: 20, 	boat: 0
+
+Left Riverbank: 	chickens: 77, 	wolves: 75, 	boat: 0
+Right Riverbank: 	chickens: 22, 	wolves: 21, 	boat: 1
+
+Left Riverbank: 	chickens: 78, 	wolves: 75, 	boat: 1
+Right Riverbank: 	chickens: 21, 	wolves: 21, 	boat: 0
+
+Left Riverbank: 	chickens: 76, 	wolves: 75, 	boat: 0
+Right Riverbank: 	chickens: 23, 	wolves: 21, 	boat: 1
+
+Left Riverbank: 	chickens: 77, 	wolves: 75, 	boat: 1
+Right Riverbank: 	chickens: 22, 	wolves: 21, 	boat: 0
+
+Left Riverbank: 	chickens: 76, 	wolves: 74, 	boat: 0
+Right Riverbank: 	chickens: 23, 	wolves: 22, 	boat: 1
+
+Left Riverbank: 	chickens: 77, 	wolves: 74, 	boat: 1
+Right Riverbank: 	chickens: 22, 	wolves: 22, 	boat: 0
+
+Left Riverbank: 	chickens: 75, 	wolves: 74, 	boat: 0
+Right Riverbank: 	chickens: 24, 	wolves: 22, 	boat: 1
+
+Left Riverbank: 	chickens: 76, 	wolves: 74, 	boat: 1
+Right Riverbank: 	chickens: 23, 	wolves: 22, 	boat: 0
+
+Left Riverbank: 	chickens: 75, 	wolves: 73, 	boat: 0
+Right Riverbank: 	chickens: 24, 	wolves: 23, 	boat: 1
+
+Left Riverbank: 	chickens: 76, 	wolves: 73, 	boat: 1
+Right Riverbank: 	chickens: 23, 	wolves: 23, 	boat: 0
+
+Left Riverbank: 	chickens: 74, 	wolves: 73, 	boat: 0
+Right Riverbank: 	chickens: 25, 	wolves: 23, 	boat: 1
+
+Left Riverbank: 	chickens: 75, 	wolves: 73, 	boat: 1
+Right Riverbank: 	chickens: 24, 	wolves: 23, 	boat: 0
+
+Left Riverbank: 	chickens: 74, 	wolves: 72, 	boat: 0
+Right Riverbank: 	chickens: 25, 	wolves: 24, 	boat: 1
+
+Left Riverbank: 	chickens: 75, 	wolves: 72, 	boat: 1
+Right Riverbank: 	chickens: 24, 	wolves: 24, 	boat: 0
+
+Left Riverbank: 	chickens: 73, 	wolves: 72, 	boat: 0
+Right Riverbank: 	chickens: 26, 	wolves: 24, 	boat: 1
+
+Left Riverbank: 	chickens: 74, 	wolves: 72, 	boat: 1
+Right Riverbank: 	chickens: 25, 	wolves: 24, 	boat: 0
+
+Left Riverbank: 	chickens: 73, 	wolves: 71, 	boat: 0
+Right Riverbank: 	chickens: 26, 	wolves: 25, 	boat: 1
+
+Left Riverbank: 	chickens: 74, 	wolves: 71, 	boat: 1
+Right Riverbank: 	chickens: 25, 	wolves: 25, 	boat: 0
+
+Left Riverbank: 	chickens: 72, 	wolves: 71, 	boat: 0
+Right Riverbank: 	chickens: 27, 	wolves: 25, 	boat: 1
+
+Left Riverbank: 	chickens: 73, 	wolves: 71, 	boat: 1
+Right Riverbank: 	chickens: 26, 	wolves: 25, 	boat: 0
+
+Left Riverbank: 	chickens: 72, 	wolves: 70, 	boat: 0
+Right Riverbank: 	chickens: 27, 	wolves: 26, 	boat: 1
+
+Left Riverbank: 	chickens: 73, 	wolves: 70, 	boat: 1
+Right Riverbank: 	chickens: 26, 	wolves: 26, 	boat: 0
+
+Left Riverbank: 	chickens: 71, 	wolves: 70, 	boat: 0
+Right Riverbank: 	chickens: 28, 	wolves: 26, 	boat: 1
+
+Left Riverbank: 	chickens: 72, 	wolves: 70, 	boat: 1
+Right Riverbank: 	chickens: 27, 	wolves: 26, 	boat: 0
+
+Left Riverbank: 	chickens: 71, 	wolves: 69, 	boat: 0
+Right Riverbank: 	chickens: 28, 	wolves: 27, 	boat: 1
+
+Left Riverbank: 	chickens: 72, 	wolves: 69, 	boat: 1
+Right Riverbank: 	chickens: 27, 	wolves: 27, 	boat: 0
+
+Left Riverbank: 	chickens: 70, 	wolves: 69, 	boat: 0
+Right Riverbank: 	chickens: 29, 	wolves: 27, 	boat: 1
+
+Left Riverbank: 	chickens: 71, 	wolves: 69, 	boat: 1
+Right Riverbank: 	chickens: 28, 	wolves: 27, 	boat: 0
+
+Left Riverbank: 	chickens: 70, 	wolves: 68, 	boat: 0
+Right Riverbank: 	chickens: 29, 	wolves: 28, 	boat: 1
+
+Left Riverbank: 	chickens: 71, 	wolves: 68, 	boat: 1
+Right Riverbank: 	chickens: 28, 	wolves: 28, 	boat: 0
+
+Left Riverbank: 	chickens: 69, 	wolves: 68, 	boat: 0
+Right Riverbank: 	chickens: 30, 	wolves: 28, 	boat: 1
+
+Left Riverbank: 	chickens: 70, 	wolves: 68, 	boat: 1
+Right Riverbank: 	chickens: 29, 	wolves: 28, 	boat: 0
+
+Left Riverbank: 	chickens: 69, 	wolves: 67, 	boat: 0
+Right Riverbank: 	chickens: 30, 	wolves: 29, 	boat: 1
+
+Left Riverbank: 	chickens: 70, 	wolves: 67, 	boat: 1
+Right Riverbank: 	chickens: 29, 	wolves: 29, 	boat: 0
+
+Left Riverbank: 	chickens: 68, 	wolves: 67, 	boat: 0
+Right Riverbank: 	chickens: 31, 	wolves: 29, 	boat: 1
+
+Left Riverbank: 	chickens: 69, 	wolves: 67, 	boat: 1
+Right Riverbank: 	chickens: 30, 	wolves: 29, 	boat: 0
+
+Left Riverbank: 	chickens: 68, 	wolves: 66, 	boat: 0
+Right Riverbank: 	chickens: 31, 	wolves: 30, 	boat: 1
+
+Left Riverbank: 	chickens: 69, 	wolves: 66, 	boat: 1
+Right Riverbank: 	chickens: 30, 	wolves: 30, 	boat: 0
+
+Left Riverbank: 	chickens: 67, 	wolves: 66, 	boat: 0
+Right Riverbank: 	chickens: 32, 	wolves: 30, 	boat: 1
+
+Left Riverbank: 	chickens: 68, 	wolves: 66, 	boat: 1
+Right Riverbank: 	chickens: 31, 	wolves: 30, 	boat: 0
+
+Left Riverbank: 	chickens: 67, 	wolves: 65, 	boat: 0
+Right Riverbank: 	chickens: 32, 	wolves: 31, 	boat: 1
+
+Left Riverbank: 	chickens: 68, 	wolves: 65, 	boat: 1
+Right Riverbank: 	chickens: 31, 	wolves: 31, 	boat: 0
+
+Left Riverbank: 	chickens: 66, 	wolves: 65, 	boat: 0
+Right Riverbank: 	chickens: 33, 	wolves: 31, 	boat: 1
+
+Left Riverbank: 	chickens: 67, 	wolves: 65, 	boat: 1
+Right Riverbank: 	chickens: 32, 	wolves: 31, 	boat: 0
+
+Left Riverbank: 	chickens: 66, 	wolves: 64, 	boat: 0
+Right Riverbank: 	chickens: 33, 	wolves: 32, 	boat: 1
+
+Left Riverbank: 	chickens: 67, 	wolves: 64, 	boat: 1
+Right Riverbank: 	chickens: 32, 	wolves: 32, 	boat: 0
+
+Left Riverbank: 	chickens: 65, 	wolves: 64, 	boat: 0
+Right Riverbank: 	chickens: 34, 	wolves: 32, 	boat: 1
+
+Left Riverbank: 	chickens: 66, 	wolves: 64, 	boat: 1
+Right Riverbank: 	chickens: 33, 	wolves: 32, 	boat: 0
+
+Left Riverbank: 	chickens: 65, 	wolves: 63, 	boat: 0
+Right Riverbank: 	chickens: 34, 	wolves: 33, 	boat: 1
+
+Left Riverbank: 	chickens: 66, 	wolves: 63, 	boat: 1
+Right Riverbank: 	chickens: 33, 	wolves: 33, 	boat: 0
+
+Left Riverbank: 	chickens: 64, 	wolves: 63, 	boat: 0
+Right Riverbank: 	chickens: 35, 	wolves: 33, 	boat: 1
+
+Left Riverbank: 	chickens: 65, 	wolves: 63, 	boat: 1
+Right Riverbank: 	chickens: 34, 	wolves: 33, 	boat: 0
+
+Left Riverbank: 	chickens: 64, 	wolves: 62, 	boat: 0
+Right Riverbank: 	chickens: 35, 	wolves: 34, 	boat: 1
+
+Left Riverbank: 	chickens: 65, 	wolves: 62, 	boat: 1
+Right Riverbank: 	chickens: 34, 	wolves: 34, 	boat: 0
+
+Left Riverbank: 	chickens: 63, 	wolves: 62, 	boat: 0
+Right Riverbank: 	chickens: 36, 	wolves: 34, 	boat: 1
+
+Left Riverbank: 	chickens: 64, 	wolves: 62, 	boat: 1
+Right Riverbank: 	chickens: 35, 	wolves: 34, 	boat: 0
+
+Left Riverbank: 	chickens: 63, 	wolves: 61, 	boat: 0
+Right Riverbank: 	chickens: 36, 	wolves: 35, 	boat: 1
+
+Left Riverbank: 	chickens: 64, 	wolves: 61, 	boat: 1
+Right Riverbank: 	chickens: 35, 	wolves: 35, 	boat: 0
+
+Left Riverbank: 	chickens: 62, 	wolves: 61, 	boat: 0
+Right Riverbank: 	chickens: 37, 	wolves: 35, 	boat: 1
+
+Left Riverbank: 	chickens: 63, 	wolves: 61, 	boat: 1
+Right Riverbank: 	chickens: 36, 	wolves: 35, 	boat: 0
+
+Left Riverbank: 	chickens: 62, 	wolves: 60, 	boat: 0
+Right Riverbank: 	chickens: 37, 	wolves: 36, 	boat: 1
+
+Left Riverbank: 	chickens: 63, 	wolves: 60, 	boat: 1
+Right Riverbank: 	chickens: 36, 	wolves: 36, 	boat: 0
+
+Left Riverbank: 	chickens: 61, 	wolves: 60, 	boat: 0
+Right Riverbank: 	chickens: 38, 	wolves: 36, 	boat: 1
+
+Left Riverbank: 	chickens: 62, 	wolves: 60, 	boat: 1
+Right Riverbank: 	chickens: 37, 	wolves: 36, 	boat: 0
+
+Left Riverbank: 	chickens: 61, 	wolves: 59, 	boat: 0
+Right Riverbank: 	chickens: 38, 	wolves: 37, 	boat: 1
+
+Left Riverbank: 	chickens: 62, 	wolves: 59, 	boat: 1
+Right Riverbank: 	chickens: 37, 	wolves: 37, 	boat: 0
+
+Left Riverbank: 	chickens: 60, 	wolves: 59, 	boat: 0
+Right Riverbank: 	chickens: 39, 	wolves: 37, 	boat: 1
+
+Left Riverbank: 	chickens: 61, 	wolves: 59, 	boat: 1
+Right Riverbank: 	chickens: 38, 	wolves: 37, 	boat: 0
+
+Left Riverbank: 	chickens: 60, 	wolves: 58, 	boat: 0
+Right Riverbank: 	chickens: 39, 	wolves: 38, 	boat: 1
+
+Left Riverbank: 	chickens: 61, 	wolves: 58, 	boat: 1
+Right Riverbank: 	chickens: 38, 	wolves: 38, 	boat: 0
+
+Left Riverbank: 	chickens: 59, 	wolves: 58, 	boat: 0
+Right Riverbank: 	chickens: 40, 	wolves: 38, 	boat: 1
+
+Left Riverbank: 	chickens: 60, 	wolves: 58, 	boat: 1
+Right Riverbank: 	chickens: 39, 	wolves: 38, 	boat: 0
+
+Left Riverbank: 	chickens: 59, 	wolves: 57, 	boat: 0
+Right Riverbank: 	chickens: 40, 	wolves: 39, 	boat: 1
+
+Left Riverbank: 	chickens: 60, 	wolves: 57, 	boat: 1
+Right Riverbank: 	chickens: 39, 	wolves: 39, 	boat: 0
+
+Left Riverbank: 	chickens: 58, 	wolves: 57, 	boat: 0
+Right Riverbank: 	chickens: 41, 	wolves: 39, 	boat: 1
+
+Left Riverbank: 	chickens: 59, 	wolves: 57, 	boat: 1
+Right Riverbank: 	chickens: 40, 	wolves: 39, 	boat: 0
+
+Left Riverbank: 	chickens: 58, 	wolves: 56, 	boat: 0
+Right Riverbank: 	chickens: 41, 	wolves: 40, 	boat: 1
+
+Left Riverbank: 	chickens: 59, 	wolves: 56, 	boat: 1
+Right Riverbank: 	chickens: 40, 	wolves: 40, 	boat: 0
+
+Left Riverbank: 	chickens: 57, 	wolves: 56, 	boat: 0
+Right Riverbank: 	chickens: 42, 	wolves: 40, 	boat: 1
+
+Left Riverbank: 	chickens: 58, 	wolves: 56, 	boat: 1
+Right Riverbank: 	chickens: 41, 	wolves: 40, 	boat: 0
+
+Left Riverbank: 	chickens: 57, 	wolves: 55, 	boat: 0
+Right Riverbank: 	chickens: 42, 	wolves: 41, 	boat: 1
+
+Left Riverbank: 	chickens: 58, 	wolves: 55, 	boat: 1
+Right Riverbank: 	chickens: 41, 	wolves: 41, 	boat: 0
+
+Left Riverbank: 	chickens: 56, 	wolves: 55, 	boat: 0
+Right Riverbank: 	chickens: 43, 	wolves: 41, 	boat: 1
+
+Left Riverbank: 	chickens: 57, 	wolves: 55, 	boat: 1
+Right Riverbank: 	chickens: 42, 	wolves: 41, 	boat: 0
+
+Left Riverbank: 	chickens: 56, 	wolves: 54, 	boat: 0
+Right Riverbank: 	chickens: 43, 	wolves: 42, 	boat: 1
+
+Left Riverbank: 	chickens: 57, 	wolves: 54, 	boat: 1
+Right Riverbank: 	chickens: 42, 	wolves: 42, 	boat: 0
+
+Left Riverbank: 	chickens: 55, 	wolves: 54, 	boat: 0
+Right Riverbank: 	chickens: 44, 	wolves: 42, 	boat: 1
+
+Left Riverbank: 	chickens: 56, 	wolves: 54, 	boat: 1
+Right Riverbank: 	chickens: 43, 	wolves: 42, 	boat: 0
+
+Left Riverbank: 	chickens: 55, 	wolves: 53, 	boat: 0
+Right Riverbank: 	chickens: 44, 	wolves: 43, 	boat: 1
+
+Left Riverbank: 	chickens: 56, 	wolves: 53, 	boat: 1
+Right Riverbank: 	chickens: 43, 	wolves: 43, 	boat: 0
+
+Left Riverbank: 	chickens: 54, 	wolves: 53, 	boat: 0
+Right Riverbank: 	chickens: 45, 	wolves: 43, 	boat: 1
+
+Left Riverbank: 	chickens: 55, 	wolves: 53, 	boat: 1
+Right Riverbank: 	chickens: 44, 	wolves: 43, 	boat: 0
+
+Left Riverbank: 	chickens: 54, 	wolves: 52, 	boat: 0
+Right Riverbank: 	chickens: 45, 	wolves: 44, 	boat: 1
+
+Left Riverbank: 	chickens: 55, 	wolves: 52, 	boat: 1
+Right Riverbank: 	chickens: 44, 	wolves: 44, 	boat: 0
+
+Left Riverbank: 	chickens: 53, 	wolves: 52, 	boat: 0
+Right Riverbank: 	chickens: 46, 	wolves: 44, 	boat: 1
+
+Left Riverbank: 	chickens: 54, 	wolves: 52, 	boat: 1
+Right Riverbank: 	chickens: 45, 	wolves: 44, 	boat: 0
+
+Left Riverbank: 	chickens: 53, 	wolves: 51, 	boat: 0
+Right Riverbank: 	chickens: 46, 	wolves: 45, 	boat: 1
+
+Left Riverbank: 	chickens: 54, 	wolves: 51, 	boat: 1
+Right Riverbank: 	chickens: 45, 	wolves: 45, 	boat: 0
+
+Left Riverbank: 	chickens: 52, 	wolves: 51, 	boat: 0
+Right Riverbank: 	chickens: 47, 	wolves: 45, 	boat: 1
+
+Left Riverbank: 	chickens: 53, 	wolves: 51, 	boat: 1
+Right Riverbank: 	chickens: 46, 	wolves: 45, 	boat: 0
+
+Left Riverbank: 	chickens: 52, 	wolves: 50, 	boat: 0
+Right Riverbank: 	chickens: 47, 	wolves: 46, 	boat: 1
+
+Left Riverbank: 	chickens: 53, 	wolves: 50, 	boat: 1
+Right Riverbank: 	chickens: 46, 	wolves: 46, 	boat: 0
+
+Left Riverbank: 	chickens: 51, 	wolves: 50, 	boat: 0
+Right Riverbank: 	chickens: 48, 	wolves: 46, 	boat: 1
+
+Left Riverbank: 	chickens: 52, 	wolves: 50, 	boat: 1
+Right Riverbank: 	chickens: 47, 	wolves: 46, 	boat: 0
+
+Left Riverbank: 	chickens: 51, 	wolves: 49, 	boat: 0
+Right Riverbank: 	chickens: 48, 	wolves: 47, 	boat: 1
+
+Left Riverbank: 	chickens: 52, 	wolves: 49, 	boat: 1
+Right Riverbank: 	chickens: 47, 	wolves: 47, 	boat: 0
+
+Left Riverbank: 	chickens: 50, 	wolves: 49, 	boat: 0
+Right Riverbank: 	chickens: 49, 	wolves: 47, 	boat: 1
+
+Left Riverbank: 	chickens: 51, 	wolves: 49, 	boat: 1
+Right Riverbank: 	chickens: 48, 	wolves: 47, 	boat: 0
+
+Left Riverbank: 	chickens: 50, 	wolves: 48, 	boat: 0
+Right Riverbank: 	chickens: 49, 	wolves: 48, 	boat: 1
+
+Left Riverbank: 	chickens: 51, 	wolves: 48, 	boat: 1
+Right Riverbank: 	chickens: 48, 	wolves: 48, 	boat: 0
+
+Left Riverbank: 	chickens: 49, 	wolves: 48, 	boat: 0
+Right Riverbank: 	chickens: 50, 	wolves: 48, 	boat: 1
+
+Left Riverbank: 	chickens: 50, 	wolves: 48, 	boat: 1
+Right Riverbank: 	chickens: 49, 	wolves: 48, 	boat: 0
+
+Left Riverbank: 	chickens: 49, 	wolves: 47, 	boat: 0
+Right Riverbank: 	chickens: 50, 	wolves: 49, 	boat: 1
+
+Left Riverbank: 	chickens: 50, 	wolves: 47, 	boat: 1
+Right Riverbank: 	chickens: 49, 	wolves: 49, 	boat: 0
+
+Left Riverbank: 	chickens: 48, 	wolves: 47, 	boat: 0
+Right Riverbank: 	chickens: 51, 	wolves: 49, 	boat: 1
+
+Left Riverbank: 	chickens: 49, 	wolves: 47, 	boat: 1
+Right Riverbank: 	chickens: 50, 	wolves: 49, 	boat: 0
+
+Left Riverbank: 	chickens: 48, 	wolves: 46, 	boat: 0
+Right Riverbank: 	chickens: 51, 	wolves: 50, 	boat: 1
+
+Left Riverbank: 	chickens: 49, 	wolves: 46, 	boat: 1
+Right Riverbank: 	chickens: 50, 	wolves: 50, 	boat: 0
+
+Left Riverbank: 	chickens: 47, 	wolves: 46, 	boat: 0
+Right Riverbank: 	chickens: 52, 	wolves: 50, 	boat: 1
+
+Left Riverbank: 	chickens: 48, 	wolves: 46, 	boat: 1
+Right Riverbank: 	chickens: 51, 	wolves: 50, 	boat: 0
+
+Left Riverbank: 	chickens: 47, 	wolves: 45, 	boat: 0
+Right Riverbank: 	chickens: 52, 	wolves: 51, 	boat: 1
+
+Left Riverbank: 	chickens: 48, 	wolves: 45, 	boat: 1
+Right Riverbank: 	chickens: 51, 	wolves: 51, 	boat: 0
+
+Left Riverbank: 	chickens: 46, 	wolves: 45, 	boat: 0
+Right Riverbank: 	chickens: 53, 	wolves: 51, 	boat: 1
+
+Left Riverbank: 	chickens: 47, 	wolves: 45, 	boat: 1
+Right Riverbank: 	chickens: 52, 	wolves: 51, 	boat: 0
+
+Left Riverbank: 	chickens: 46, 	wolves: 44, 	boat: 0
+Right Riverbank: 	chickens: 53, 	wolves: 52, 	boat: 1
+
+Left Riverbank: 	chickens: 47, 	wolves: 44, 	boat: 1
+Right Riverbank: 	chickens: 52, 	wolves: 52, 	boat: 0
+
+Left Riverbank: 	chickens: 45, 	wolves: 44, 	boat: 0
+Right Riverbank: 	chickens: 54, 	wolves: 52, 	boat: 1
+
+Left Riverbank: 	chickens: 46, 	wolves: 44, 	boat: 1
+Right Riverbank: 	chickens: 53, 	wolves: 52, 	boat: 0
+
+Left Riverbank: 	chickens: 45, 	wolves: 43, 	boat: 0
+Right Riverbank: 	chickens: 54, 	wolves: 53, 	boat: 1
+
+Left Riverbank: 	chickens: 46, 	wolves: 43, 	boat: 1
+Right Riverbank: 	chickens: 53, 	wolves: 53, 	boat: 0
+
+Left Riverbank: 	chickens: 44, 	wolves: 43, 	boat: 0
+Right Riverbank: 	chickens: 55, 	wolves: 53, 	boat: 1
+
+Left Riverbank: 	chickens: 45, 	wolves: 43, 	boat: 1
+Right Riverbank: 	chickens: 54, 	wolves: 53, 	boat: 0
+
+Left Riverbank: 	chickens: 44, 	wolves: 42, 	boat: 0
+Right Riverbank: 	chickens: 55, 	wolves: 54, 	boat: 1
+
+Left Riverbank: 	chickens: 45, 	wolves: 42, 	boat: 1
+Right Riverbank: 	chickens: 54, 	wolves: 54, 	boat: 0
+
+Left Riverbank: 	chickens: 43, 	wolves: 42, 	boat: 0
+Right Riverbank: 	chickens: 56, 	wolves: 54, 	boat: 1
+
+Left Riverbank: 	chickens: 44, 	wolves: 42, 	boat: 1
+Right Riverbank: 	chickens: 55, 	wolves: 54, 	boat: 0
+
+Left Riverbank: 	chickens: 43, 	wolves: 41, 	boat: 0
+Right Riverbank: 	chickens: 56, 	wolves: 55, 	boat: 1
+
+Left Riverbank: 	chickens: 44, 	wolves: 41, 	boat: 1
+Right Riverbank: 	chickens: 55, 	wolves: 55, 	boat: 0
+
+Left Riverbank: 	chickens: 42, 	wolves: 41, 	boat: 0
+Right Riverbank: 	chickens: 57, 	wolves: 55, 	boat: 1
+
+Left Riverbank: 	chickens: 43, 	wolves: 41, 	boat: 1
+Right Riverbank: 	chickens: 56, 	wolves: 55, 	boat: 0
+
+Left Riverbank: 	chickens: 42, 	wolves: 40, 	boat: 0
+Right Riverbank: 	chickens: 57, 	wolves: 56, 	boat: 1
+
+Left Riverbank: 	chickens: 43, 	wolves: 40, 	boat: 1
+Right Riverbank: 	chickens: 56, 	wolves: 56, 	boat: 0
+
+Left Riverbank: 	chickens: 41, 	wolves: 40, 	boat: 0
+Right Riverbank: 	chickens: 58, 	wolves: 56, 	boat: 1
+
+Left Riverbank: 	chickens: 42, 	wolves: 40, 	boat: 1
+Right Riverbank: 	chickens: 57, 	wolves: 56, 	boat: 0
+
+Left Riverbank: 	chickens: 41, 	wolves: 39, 	boat: 0
+Right Riverbank: 	chickens: 58, 	wolves: 57, 	boat: 1
+
+Left Riverbank: 	chickens: 42, 	wolves: 39, 	boat: 1
+Right Riverbank: 	chickens: 57, 	wolves: 57, 	boat: 0
+
+Left Riverbank: 	chickens: 40, 	wolves: 39, 	boat: 0
+Right Riverbank: 	chickens: 59, 	wolves: 57, 	boat: 1
+
+Left Riverbank: 	chickens: 41, 	wolves: 39, 	boat: 1
+Right Riverbank: 	chickens: 58, 	wolves: 57, 	boat: 0
+
+Left Riverbank: 	chickens: 40, 	wolves: 38, 	boat: 0
+Right Riverbank: 	chickens: 59, 	wolves: 58, 	boat: 1
+
+Left Riverbank: 	chickens: 41, 	wolves: 38, 	boat: 1
+Right Riverbank: 	chickens: 58, 	wolves: 58, 	boat: 0
+
+Left Riverbank: 	chickens: 39, 	wolves: 38, 	boat: 0
+Right Riverbank: 	chickens: 60, 	wolves: 58, 	boat: 1
+
+Left Riverbank: 	chickens: 40, 	wolves: 38, 	boat: 1
+Right Riverbank: 	chickens: 59, 	wolves: 58, 	boat: 0
+
+Left Riverbank: 	chickens: 39, 	wolves: 37, 	boat: 0
+Right Riverbank: 	chickens: 60, 	wolves: 59, 	boat: 1
+
+Left Riverbank: 	chickens: 40, 	wolves: 37, 	boat: 1
+Right Riverbank: 	chickens: 59, 	wolves: 59, 	boat: 0
+
+Left Riverbank: 	chickens: 38, 	wolves: 37, 	boat: 0
+Right Riverbank: 	chickens: 61, 	wolves: 59, 	boat: 1
+
+Left Riverbank: 	chickens: 39, 	wolves: 37, 	boat: 1
+Right Riverbank: 	chickens: 60, 	wolves: 59, 	boat: 0
+
+Left Riverbank: 	chickens: 38, 	wolves: 36, 	boat: 0
+Right Riverbank: 	chickens: 61, 	wolves: 60, 	boat: 1
+
+Left Riverbank: 	chickens: 39, 	wolves: 36, 	boat: 1
+Right Riverbank: 	chickens: 60, 	wolves: 60, 	boat: 0
+
+Left Riverbank: 	chickens: 37, 	wolves: 36, 	boat: 0
+Right Riverbank: 	chickens: 62, 	wolves: 60, 	boat: 1
+
+Left Riverbank: 	chickens: 38, 	wolves: 36, 	boat: 1
+Right Riverbank: 	chickens: 61, 	wolves: 60, 	boat: 0
+
+Left Riverbank: 	chickens: 37, 	wolves: 35, 	boat: 0
+Right Riverbank: 	chickens: 62, 	wolves: 61, 	boat: 1
+
+Left Riverbank: 	chickens: 38, 	wolves: 35, 	boat: 1
+Right Riverbank: 	chickens: 61, 	wolves: 61, 	boat: 0
+
+Left Riverbank: 	chickens: 36, 	wolves: 35, 	boat: 0
+Right Riverbank: 	chickens: 63, 	wolves: 61, 	boat: 1
+
+Left Riverbank: 	chickens: 37, 	wolves: 35, 	boat: 1
+Right Riverbank: 	chickens: 62, 	wolves: 61, 	boat: 0
+
+Left Riverbank: 	chickens: 36, 	wolves: 34, 	boat: 0
+Right Riverbank: 	chickens: 63, 	wolves: 62, 	boat: 1
+
+Left Riverbank: 	chickens: 37, 	wolves: 34, 	boat: 1
+Right Riverbank: 	chickens: 62, 	wolves: 62, 	boat: 0
+
+Left Riverbank: 	chickens: 35, 	wolves: 34, 	boat: 0
+Right Riverbank: 	chickens: 64, 	wolves: 62, 	boat: 1
+
+Left Riverbank: 	chickens: 36, 	wolves: 34, 	boat: 1
+Right Riverbank: 	chickens: 63, 	wolves: 62, 	boat: 0
+
+Left Riverbank: 	chickens: 35, 	wolves: 33, 	boat: 0
+Right Riverbank: 	chickens: 64, 	wolves: 63, 	boat: 1
+
+Left Riverbank: 	chickens: 36, 	wolves: 33, 	boat: 1
+Right Riverbank: 	chickens: 63, 	wolves: 63, 	boat: 0
+
+Left Riverbank: 	chickens: 34, 	wolves: 33, 	boat: 0
+Right Riverbank: 	chickens: 65, 	wolves: 63, 	boat: 1
+
+Left Riverbank: 	chickens: 35, 	wolves: 33, 	boat: 1
+Right Riverbank: 	chickens: 64, 	wolves: 63, 	boat: 0
+
+Left Riverbank: 	chickens: 34, 	wolves: 32, 	boat: 0
+Right Riverbank: 	chickens: 65, 	wolves: 64, 	boat: 1
+
+Left Riverbank: 	chickens: 35, 	wolves: 32, 	boat: 1
+Right Riverbank: 	chickens: 64, 	wolves: 64, 	boat: 0
+
+Left Riverbank: 	chickens: 33, 	wolves: 32, 	boat: 0
+Right Riverbank: 	chickens: 66, 	wolves: 64, 	boat: 1
+
+Left Riverbank: 	chickens: 34, 	wolves: 32, 	boat: 1
+Right Riverbank: 	chickens: 65, 	wolves: 64, 	boat: 0
+
+Left Riverbank: 	chickens: 33, 	wolves: 31, 	boat: 0
+Right Riverbank: 	chickens: 66, 	wolves: 65, 	boat: 1
+
+Left Riverbank: 	chickens: 34, 	wolves: 31, 	boat: 1
+Right Riverbank: 	chickens: 65, 	wolves: 65, 	boat: 0
+
+Left Riverbank: 	chickens: 32, 	wolves: 31, 	boat: 0
+Right Riverbank: 	chickens: 67, 	wolves: 65, 	boat: 1
+
+Left Riverbank: 	chickens: 33, 	wolves: 31, 	boat: 1
+Right Riverbank: 	chickens: 66, 	wolves: 65, 	boat: 0
+
+Left Riverbank: 	chickens: 32, 	wolves: 30, 	boat: 0
+Right Riverbank: 	chickens: 67, 	wolves: 66, 	boat: 1
+
+Left Riverbank: 	chickens: 33, 	wolves: 30, 	boat: 1
+Right Riverbank: 	chickens: 66, 	wolves: 66, 	boat: 0
+
+Left Riverbank: 	chickens: 31, 	wolves: 30, 	boat: 0
+Right Riverbank: 	chickens: 68, 	wolves: 66, 	boat: 1
+
+Left Riverbank: 	chickens: 32, 	wolves: 30, 	boat: 1
+Right Riverbank: 	chickens: 67, 	wolves: 66, 	boat: 0
+
+Left Riverbank: 	chickens: 31, 	wolves: 29, 	boat: 0
+Right Riverbank: 	chickens: 68, 	wolves: 67, 	boat: 1
+
+Left Riverbank: 	chickens: 32, 	wolves: 29, 	boat: 1
+Right Riverbank: 	chickens: 67, 	wolves: 67, 	boat: 0
+
+Left Riverbank: 	chickens: 30, 	wolves: 29, 	boat: 0
+Right Riverbank: 	chickens: 69, 	wolves: 67, 	boat: 1
+
+Left Riverbank: 	chickens: 31, 	wolves: 29, 	boat: 1
+Right Riverbank: 	chickens: 68, 	wolves: 67, 	boat: 0
+
+Left Riverbank: 	chickens: 30, 	wolves: 28, 	boat: 0
+Right Riverbank: 	chickens: 69, 	wolves: 68, 	boat: 1
+
+Left Riverbank: 	chickens: 31, 	wolves: 28, 	boat: 1
+Right Riverbank: 	chickens: 68, 	wolves: 68, 	boat: 0
+
+Left Riverbank: 	chickens: 29, 	wolves: 28, 	boat: 0
+Right Riverbank: 	chickens: 70, 	wolves: 68, 	boat: 1
+
+Left Riverbank: 	chickens: 30, 	wolves: 28, 	boat: 1
+Right Riverbank: 	chickens: 69, 	wolves: 68, 	boat: 0
+
+Left Riverbank: 	chickens: 29, 	wolves: 27, 	boat: 0
+Right Riverbank: 	chickens: 70, 	wolves: 69, 	boat: 1
+
+Left Riverbank: 	chickens: 30, 	wolves: 27, 	boat: 1
+Right Riverbank: 	chickens: 69, 	wolves: 69, 	boat: 0
+
+Left Riverbank: 	chickens: 28, 	wolves: 27, 	boat: 0
+Right Riverbank: 	chickens: 71, 	wolves: 69, 	boat: 1
+
+Left Riverbank: 	chickens: 29, 	wolves: 27, 	boat: 1
+Right Riverbank: 	chickens: 70, 	wolves: 69, 	boat: 0
+
+Left Riverbank: 	chickens: 28, 	wolves: 26, 	boat: 0
+Right Riverbank: 	chickens: 71, 	wolves: 70, 	boat: 1
+
+Left Riverbank: 	chickens: 29, 	wolves: 26, 	boat: 1
+Right Riverbank: 	chickens: 70, 	wolves: 70, 	boat: 0
+
+Left Riverbank: 	chickens: 27, 	wolves: 26, 	boat: 0
+Right Riverbank: 	chickens: 72, 	wolves: 70, 	boat: 1
+
+Left Riverbank: 	chickens: 28, 	wolves: 26, 	boat: 1
+Right Riverbank: 	chickens: 71, 	wolves: 70, 	boat: 0
+
+Left Riverbank: 	chickens: 27, 	wolves: 25, 	boat: 0
+Right Riverbank: 	chickens: 72, 	wolves: 71, 	boat: 1
+
+Left Riverbank: 	chickens: 28, 	wolves: 25, 	boat: 1
+Right Riverbank: 	chickens: 71, 	wolves: 71, 	boat: 0
+
+Left Riverbank: 	chickens: 26, 	wolves: 25, 	boat: 0
+Right Riverbank: 	chickens: 73, 	wolves: 71, 	boat: 1
+
+Left Riverbank: 	chickens: 27, 	wolves: 25, 	boat: 1
+Right Riverbank: 	chickens: 72, 	wolves: 71, 	boat: 0
+
+Left Riverbank: 	chickens: 26, 	wolves: 24, 	boat: 0
+Right Riverbank: 	chickens: 73, 	wolves: 72, 	boat: 1
+
+Left Riverbank: 	chickens: 27, 	wolves: 24, 	boat: 1
+Right Riverbank: 	chickens: 72, 	wolves: 72, 	boat: 0
+
+Left Riverbank: 	chickens: 25, 	wolves: 24, 	boat: 0
+Right Riverbank: 	chickens: 74, 	wolves: 72, 	boat: 1
+
+Left Riverbank: 	chickens: 26, 	wolves: 24, 	boat: 1
+Right Riverbank: 	chickens: 73, 	wolves: 72, 	boat: 0
+
+Left Riverbank: 	chickens: 25, 	wolves: 23, 	boat: 0
+Right Riverbank: 	chickens: 74, 	wolves: 73, 	boat: 1
+
+Left Riverbank: 	chickens: 26, 	wolves: 23, 	boat: 1
+Right Riverbank: 	chickens: 73, 	wolves: 73, 	boat: 0
+
+Left Riverbank: 	chickens: 24, 	wolves: 23, 	boat: 0
+Right Riverbank: 	chickens: 75, 	wolves: 73, 	boat: 1
+
+Left Riverbank: 	chickens: 25, 	wolves: 23, 	boat: 1
+Right Riverbank: 	chickens: 74, 	wolves: 73, 	boat: 0
+
+Left Riverbank: 	chickens: 24, 	wolves: 22, 	boat: 0
+Right Riverbank: 	chickens: 75, 	wolves: 74, 	boat: 1
+
+Left Riverbank: 	chickens: 25, 	wolves: 22, 	boat: 1
+Right Riverbank: 	chickens: 74, 	wolves: 74, 	boat: 0
+
+Left Riverbank: 	chickens: 23, 	wolves: 22, 	boat: 0
+Right Riverbank: 	chickens: 76, 	wolves: 74, 	boat: 1
+
+Left Riverbank: 	chickens: 24, 	wolves: 22, 	boat: 1
+Right Riverbank: 	chickens: 75, 	wolves: 74, 	boat: 0
+
+Left Riverbank: 	chickens: 23, 	wolves: 21, 	boat: 0
+Right Riverbank: 	chickens: 76, 	wolves: 75, 	boat: 1
+
+Left Riverbank: 	chickens: 24, 	wolves: 21, 	boat: 1
+Right Riverbank: 	chickens: 75, 	wolves: 75, 	boat: 0
+
+Left Riverbank: 	chickens: 22, 	wolves: 21, 	boat: 0
+Right Riverbank: 	chickens: 77, 	wolves: 75, 	boat: 1
+
+Left Riverbank: 	chickens: 23, 	wolves: 21, 	boat: 1
+Right Riverbank: 	chickens: 76, 	wolves: 75, 	boat: 0
+
+Left Riverbank: 	chickens: 22, 	wolves: 20, 	boat: 0
+Right Riverbank: 	chickens: 77, 	wolves: 76, 	boat: 1
+
+Left Riverbank: 	chickens: 23, 	wolves: 20, 	boat: 1
+Right Riverbank: 	chickens: 76, 	wolves: 76, 	boat: 0
+
+Left Riverbank: 	chickens: 21, 	wolves: 20, 	boat: 0
+Right Riverbank: 	chickens: 78, 	wolves: 76, 	boat: 1
+
+Left Riverbank: 	chickens: 22, 	wolves: 20, 	boat: 1
+Right Riverbank: 	chickens: 77, 	wolves: 76, 	boat: 0
+
+Left Riverbank: 	chickens: 21, 	wolves: 19, 	boat: 0
+Right Riverbank: 	chickens: 78, 	wolves: 77, 	boat: 1
+
+Left Riverbank: 	chickens: 22, 	wolves: 19, 	boat: 1
+Right Riverbank: 	chickens: 77, 	wolves: 77, 	boat: 0
+
+Left Riverbank: 	chickens: 20, 	wolves: 19, 	boat: 0
+Right Riverbank: 	chickens: 79, 	wolves: 77, 	boat: 1
+
+Left Riverbank: 	chickens: 21, 	wolves: 19, 	boat: 1
+Right Riverbank: 	chickens: 78, 	wolves: 77, 	boat: 0
+
+Left Riverbank: 	chickens: 20, 	wolves: 18, 	boat: 0
+Right Riverbank: 	chickens: 79, 	wolves: 78, 	boat: 1
+
+Left Riverbank: 	chickens: 21, 	wolves: 18, 	boat: 1
+Right Riverbank: 	chickens: 78, 	wolves: 78, 	boat: 0
+
+Left Riverbank: 	chickens: 19, 	wolves: 18, 	boat: 0
+Right Riverbank: 	chickens: 80, 	wolves: 78, 	boat: 1
+
+Left Riverbank: 	chickens: 20, 	wolves: 18, 	boat: 1
+Right Riverbank: 	chickens: 79, 	wolves: 78, 	boat: 0
+
+Left Riverbank: 	chickens: 19, 	wolves: 17, 	boat: 0
+Right Riverbank: 	chickens: 80, 	wolves: 79, 	boat: 1
+
+Left Riverbank: 	chickens: 20, 	wolves: 17, 	boat: 1
+Right Riverbank: 	chickens: 79, 	wolves: 79, 	boat: 0
+
+Left Riverbank: 	chickens: 18, 	wolves: 17, 	boat: 0
+Right Riverbank: 	chickens: 81, 	wolves: 79, 	boat: 1
+
+Left Riverbank: 	chickens: 19, 	wolves: 17, 	boat: 1
+Right Riverbank: 	chickens: 80, 	wolves: 79, 	boat: 0
+
+Left Riverbank: 	chickens: 18, 	wolves: 16, 	boat: 0
+Right Riverbank: 	chickens: 81, 	wolves: 80, 	boat: 1
+
+Left Riverbank: 	chickens: 19, 	wolves: 16, 	boat: 1
+Right Riverbank: 	chickens: 80, 	wolves: 80, 	boat: 0
+
+Left Riverbank: 	chickens: 17, 	wolves: 16, 	boat: 0
+Right Riverbank: 	chickens: 82, 	wolves: 80, 	boat: 1
+
+Left Riverbank: 	chickens: 18, 	wolves: 16, 	boat: 1
+Right Riverbank: 	chickens: 81, 	wolves: 80, 	boat: 0
+
+Left Riverbank: 	chickens: 17, 	wolves: 15, 	boat: 0
+Right Riverbank: 	chickens: 82, 	wolves: 81, 	boat: 1
+
+Left Riverbank: 	chickens: 18, 	wolves: 15, 	boat: 1
+Right Riverbank: 	chickens: 81, 	wolves: 81, 	boat: 0
+
+Left Riverbank: 	chickens: 16, 	wolves: 15, 	boat: 0
+Right Riverbank: 	chickens: 83, 	wolves: 81, 	boat: 1
+
+Left Riverbank: 	chickens: 17, 	wolves: 15, 	boat: 1
+Right Riverbank: 	chickens: 82, 	wolves: 81, 	boat: 0
+
+Left Riverbank: 	chickens: 16, 	wolves: 14, 	boat: 0
+Right Riverbank: 	chickens: 83, 	wolves: 82, 	boat: 1
+
+Left Riverbank: 	chickens: 17, 	wolves: 14, 	boat: 1
+Right Riverbank: 	chickens: 82, 	wolves: 82, 	boat: 0
+
+Left Riverbank: 	chickens: 15, 	wolves: 14, 	boat: 0
+Right Riverbank: 	chickens: 84, 	wolves: 82, 	boat: 1
+
+Left Riverbank: 	chickens: 16, 	wolves: 14, 	boat: 1
+Right Riverbank: 	chickens: 83, 	wolves: 82, 	boat: 0
+
+Left Riverbank: 	chickens: 15, 	wolves: 13, 	boat: 0
+Right Riverbank: 	chickens: 84, 	wolves: 83, 	boat: 1
+
+Left Riverbank: 	chickens: 16, 	wolves: 13, 	boat: 1
+Right Riverbank: 	chickens: 83, 	wolves: 83, 	boat: 0
+
+Left Riverbank: 	chickens: 14, 	wolves: 13, 	boat: 0
+Right Riverbank: 	chickens: 85, 	wolves: 83, 	boat: 1
+
+Left Riverbank: 	chickens: 15, 	wolves: 13, 	boat: 1
+Right Riverbank: 	chickens: 84, 	wolves: 83, 	boat: 0
+
+Left Riverbank: 	chickens: 14, 	wolves: 12, 	boat: 0
+Right Riverbank: 	chickens: 85, 	wolves: 84, 	boat: 1
+
+Left Riverbank: 	chickens: 15, 	wolves: 12, 	boat: 1
+Right Riverbank: 	chickens: 84, 	wolves: 84, 	boat: 0
+
+Left Riverbank: 	chickens: 13, 	wolves: 12, 	boat: 0
+Right Riverbank: 	chickens: 86, 	wolves: 84, 	boat: 1
+
+Left Riverbank: 	chickens: 14, 	wolves: 12, 	boat: 1
+Right Riverbank: 	chickens: 85, 	wolves: 84, 	boat: 0
+
+Left Riverbank: 	chickens: 13, 	wolves: 11, 	boat: 0
+Right Riverbank: 	chickens: 86, 	wolves: 85, 	boat: 1
+
+Left Riverbank: 	chickens: 14, 	wolves: 11, 	boat: 1
+Right Riverbank: 	chickens: 85, 	wolves: 85, 	boat: 0
+
+Left Riverbank: 	chickens: 12, 	wolves: 11, 	boat: 0
+Right Riverbank: 	chickens: 87, 	wolves: 85, 	boat: 1
+
+Left Riverbank: 	chickens: 13, 	wolves: 11, 	boat: 1
+Right Riverbank: 	chickens: 86, 	wolves: 85, 	boat: 0
+
+Left Riverbank: 	chickens: 12, 	wolves: 10, 	boat: 0
+Right Riverbank: 	chickens: 87, 	wolves: 86, 	boat: 1
+
+Left Riverbank: 	chickens: 13, 	wolves: 10, 	boat: 1
+Right Riverbank: 	chickens: 86, 	wolves: 86, 	boat: 0
+
+Left Riverbank: 	chickens: 11, 	wolves: 10, 	boat: 0
+Right Riverbank: 	chickens: 88, 	wolves: 86, 	boat: 1
+
+Left Riverbank: 	chickens: 12, 	wolves: 10, 	boat: 1
+Right Riverbank: 	chickens: 87, 	wolves: 86, 	boat: 0
+
+Left Riverbank: 	chickens: 11, 	wolves: 9, 	boat: 0
+Right Riverbank: 	chickens: 88, 	wolves: 87, 	boat: 1
+
+Left Riverbank: 	chickens: 12, 	wolves: 9, 	boat: 1
+Right Riverbank: 	chickens: 87, 	wolves: 87, 	boat: 0
+
+Left Riverbank: 	chickens: 10, 	wolves: 9, 	boat: 0
+Right Riverbank: 	chickens: 89, 	wolves: 87, 	boat: 1
+
+Left Riverbank: 	chickens: 11, 	wolves: 9, 	boat: 1
+Right Riverbank: 	chickens: 88, 	wolves: 87, 	boat: 0
+
+Left Riverbank: 	chickens: 10, 	wolves: 8, 	boat: 0
+Right Riverbank: 	chickens: 89, 	wolves: 88, 	boat: 1
+
+Left Riverbank: 	chickens: 11, 	wolves: 8, 	boat: 1
+Right Riverbank: 	chickens: 88, 	wolves: 88, 	boat: 0
+
+Left Riverbank: 	chickens: 9, 	wolves: 8, 	boat: 0
+Right Riverbank: 	chickens: 90, 	wolves: 88, 	boat: 1
+
+Left Riverbank: 	chickens: 10, 	wolves: 8, 	boat: 1
+Right Riverbank: 	chickens: 89, 	wolves: 88, 	boat: 0
+
+Left Riverbank: 	chickens: 9, 	wolves: 7, 	boat: 0
+Right Riverbank: 	chickens: 90, 	wolves: 89, 	boat: 1
+
+Left Riverbank: 	chickens: 10, 	wolves: 7, 	boat: 1
+Right Riverbank: 	chickens: 89, 	wolves: 89, 	boat: 0
+
+Left Riverbank: 	chickens: 8, 	wolves: 7, 	boat: 0
+Right Riverbank: 	chickens: 91, 	wolves: 89, 	boat: 1
+
+Left Riverbank: 	chickens: 9, 	wolves: 7, 	boat: 1
+Right Riverbank: 	chickens: 90, 	wolves: 89, 	boat: 0
+
+Left Riverbank: 	chickens: 8, 	wolves: 6, 	boat: 0
+Right Riverbank: 	chickens: 91, 	wolves: 90, 	boat: 1
+
+Left Riverbank: 	chickens: 9, 	wolves: 6, 	boat: 1
+Right Riverbank: 	chickens: 90, 	wolves: 90, 	boat: 0
+
+Left Riverbank: 	chickens: 7, 	wolves: 6, 	boat: 0
+Right Riverbank: 	chickens: 92, 	wolves: 90, 	boat: 1
+
+Left Riverbank: 	chickens: 8, 	wolves: 6, 	boat: 1
+Right Riverbank: 	chickens: 91, 	wolves: 90, 	boat: 0
+
+Left Riverbank: 	chickens: 7, 	wolves: 5, 	boat: 0
+Right Riverbank: 	chickens: 92, 	wolves: 91, 	boat: 1
+
+Left Riverbank: 	chickens: 8, 	wolves: 5, 	boat: 1
+Right Riverbank: 	chickens: 91, 	wolves: 91, 	boat: 0
+
+Left Riverbank: 	chickens: 6, 	wolves: 5, 	boat: 0
+Right Riverbank: 	chickens: 93, 	wolves: 91, 	boat: 1
+
+Left Riverbank: 	chickens: 7, 	wolves: 5, 	boat: 1
+Right Riverbank: 	chickens: 92, 	wolves: 91, 	boat: 0
+
+Left Riverbank: 	chickens: 6, 	wolves: 4, 	boat: 0
+Right Riverbank: 	chickens: 93, 	wolves: 92, 	boat: 1
+
+Left Riverbank: 	chickens: 7, 	wolves: 4, 	boat: 1
+Right Riverbank: 	chickens: 92, 	wolves: 92, 	boat: 0
+
+Left Riverbank: 	chickens: 5, 	wolves: 4, 	boat: 0
+Right Riverbank: 	chickens: 94, 	wolves: 92, 	boat: 1
+
+Left Riverbank: 	chickens: 6, 	wolves: 4, 	boat: 1
+Right Riverbank: 	chickens: 93, 	wolves: 92, 	boat: 0
+
+Left Riverbank: 	chickens: 5, 	wolves: 3, 	boat: 0
+Right Riverbank: 	chickens: 94, 	wolves: 93, 	boat: 1
+
+Left Riverbank: 	chickens: 6, 	wolves: 3, 	boat: 1
+Right Riverbank: 	chickens: 93, 	wolves: 93, 	boat: 0
+
+Left Riverbank: 	chickens: 4, 	wolves: 3, 	boat: 0
+Right Riverbank: 	chickens: 95, 	wolves: 93, 	boat: 1
+
+Left Riverbank: 	chickens: 5, 	wolves: 3, 	boat: 1
+Right Riverbank: 	chickens: 94, 	wolves: 93, 	boat: 0
+
+Left Riverbank: 	chickens: 4, 	wolves: 2, 	boat: 0
+Right Riverbank: 	chickens: 95, 	wolves: 94, 	boat: 1
+
+Left Riverbank: 	chickens: 5, 	wolves: 2, 	boat: 1
+Right Riverbank: 	chickens: 94, 	wolves: 94, 	boat: 0
+
+Left Riverbank: 	chickens: 3, 	wolves: 2, 	boat: 0
+Right Riverbank: 	chickens: 96, 	wolves: 94, 	boat: 1
+
+Left Riverbank: 	chickens: 4, 	wolves: 2, 	boat: 1
+Right Riverbank: 	chickens: 95, 	wolves: 94, 	boat: 0
+
+Left Riverbank: 	chickens: 3, 	wolves: 1, 	boat: 0
+Right Riverbank: 	chickens: 96, 	wolves: 95, 	boat: 1
+
+Left Riverbank: 	chickens: 4, 	wolves: 1, 	boat: 1
+Right Riverbank: 	chickens: 95, 	wolves: 95, 	boat: 0
+
+Left Riverbank: 	chickens: 2, 	wolves: 1, 	boat: 0
+Right Riverbank: 	chickens: 97, 	wolves: 95, 	boat: 1
+
+Left Riverbank: 	chickens: 3, 	wolves: 1, 	boat: 1
+Right Riverbank: 	chickens: 96, 	wolves: 95, 	boat: 0
+
+Left Riverbank: 	chickens: 2, 	wolves: 0, 	boat: 0
+Right Riverbank: 	chickens: 97, 	wolves: 96, 	boat: 1
+
+Left Riverbank: 	chickens: 3, 	wolves: 0, 	boat: 1
+Right Riverbank: 	chickens: 96, 	wolves: 96, 	boat: 0
+
+Left Riverbank: 	chickens: 1, 	wolves: 0, 	boat: 0
+Right Riverbank: 	chickens: 98, 	wolves: 96, 	boat: 1
+
+Left Riverbank: 	chickens: 2, 	wolves: 0, 	boat: 1
+Right Riverbank: 	chickens: 97, 	wolves: 96, 	boat: 0
+
+Left Riverbank: 	chickens: 0, 	wolves: 0, 	boat: 0
+Right Riverbank: 	chickens: 99, 	wolves: 96, 	boat: 1
+Number of nodes on solution path: 388
+DFS found a goal state after expanding 388 total nodes
